@@ -1,6 +1,6 @@
 ## Section: Digital Well-being and Social Media Etiquette
 
-### ✅ Do’s
+###  Do’s
 
 > **"Your digital footprint is a reflection of your character in the virtual world."**
 
@@ -14,7 +14,7 @@
 
 
 
-### ❌ Don’ts
+###  Don’ts
 
 > **"Digital mistakes can be permanent; caution is the best preventive measure."**
 
