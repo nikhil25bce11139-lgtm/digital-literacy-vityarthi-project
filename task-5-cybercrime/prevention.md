@@ -15,7 +15,7 @@ This checklist highlights 8 actionable steps to protect your digital identity an
 
 ---
 
-### 🚨 How to Report Cybercrime in India
+###  How to Report Cybercrime in India
 
 If you or someone you know falls victim to a digital scam or harassment, use the following official channels immediately:
 
